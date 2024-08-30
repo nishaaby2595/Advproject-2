@@ -51,6 +51,7 @@ function Card(props){
   }
 
   function createtechcard(p){
+    
     return(
       <div className="cards-container" >
       <Card 
